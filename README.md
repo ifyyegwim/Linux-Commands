@@ -11,6 +11,8 @@ tab (shortcut)
 
 ctrl + l (clear)
 
+ctrl + r (reverse search, bring back a previous command)
+
 tail  (bottom half of a file)
 
 head (top half of a file)
