@@ -49,9 +49,9 @@ sudo apt-get install tree (directory tree)
 
 /  (root folder)
 
-df (disk free)
+df (find out info about free space on the disk)
 
-
+free (tells us about memory)
 
 
 
@@ -70,7 +70,9 @@ flags (extend the functionality of a command)
 
  rm -r (remove directory recursively)
 
- df -h (disk free human readable fmt0
+ df -h (disk free human readable fmt)
+
+ free -h (human readable fmt of free)
  
  mkdir -p (create multiple folders)
  
