@@ -69,6 +69,8 @@ flags (extend the functionality of a command)
  ls -la 
 
  rm -r (remove directory recursively)
+
+ df -h (disk free human readable fmt0
  
  mkdir -p (create multiple folders)
  
