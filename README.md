@@ -51,7 +51,7 @@ sudo apt-get install tree (directory tree)
 
 df (find out info about free space on the disk)
 
-free (tells us about memory)
+free (tells us about memory ,ram)
 
 
 
