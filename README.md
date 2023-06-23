@@ -11,8 +11,6 @@ tab (shortcut)
 
 ctrl + l (clear)
 
-ctrl + r (reverse search, bring back a previous command)
-
 tail  (bottom half of a file)
 
 head (top half of a file)
@@ -39,7 +37,7 @@ mv  (move/rename)
 
 echo (repeat command)
 
-in (symbolic link)
+ln (symbolic link)
 
 variables
 
@@ -55,12 +53,33 @@ free (tells us about memory ,ram)
 
 id (more information about current user)
 
+wget (download files to your server)
 
+less (another way to view a file)
 
+curl (http file address) -- output (new file name)
 
--------------------------------------------------------------------------------
+diff (checks the differences between two files)
+
+sudo useradd -m newuser (add new user)
+
+sudo passwd newuser (create new user password)
+
+| grep (search for a string within a file)
+
+history (bring back all the comds that have been used)
+
+ctrl + r (reverse search, bring back a previous command)
+
+stat (check metadata)
+
+! alphabet (run the last command with the alphabet you input)
+
+chmod (change mod permissions on a file)
+
 
 flags (extend the functionality of a command)
+-------------------------------------------------------------------------------
 
  ls -l (more information on a command)
 
@@ -77,4 +96,9 @@ flags (extend the functionality of a command)
  mkdir -p (create multiple folders)
  
  tree / -L 1 (to show first directory after root directory)
- 
+
+ tree / -L 2 (to show second directory after root directory)
+
+ df -i (information about inodes)
+
+ ls -i (list inode number of a file)
