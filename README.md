@@ -50,6 +50,14 @@ sudo apt-get install tree (directory tree)
 /  (root folder)
 
 df (disk free)
+
+
+
+
+
+
+
+
 -------------------------------------------------------------------------------
 
 flags (extend the functionality of a command)
