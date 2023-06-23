@@ -53,7 +53,7 @@ df (find out info about free space on the disk)
 
 free (tells us about memory ,ram)
 
-
+id (more information about current user)
 
 
 
