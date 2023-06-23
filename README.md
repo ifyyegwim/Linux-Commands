@@ -83,7 +83,11 @@ ctrl + r (reverse search, bring back a previous command)
 
 stat (check metadata)
 
-& - (send a process to the background)
+&  (send a process to the background)
+
+ps -ef (process status)
+
+lsof (to see all the open files that a program is making use of)
 
 ! alphabet (run the last command with the alphabet you input)
 
