@@ -37,9 +37,19 @@ mv  (move/rename)
 
 echo (repeat command)
 
+echo > (redirect data to a file)
+
+echo >> (append a file)
+
 ln (symbolic link)
 
 variables
+
+find / -name (find a file with name)
+
+find / -name > newfile.txt (redirect data you need to another file and leave errors on the screen)
+
+find / -name 2> newfile.txt (redirect errors to another file and leave only return data on the screen)
 
 cd - (last folder entered)
 
@@ -72,6 +82,8 @@ history (bring back all the comds that have been used)
 ctrl + r (reverse search, bring back a previous command)
 
 stat (check metadata)
+
+& - (send a process to the background)
 
 ! alphabet (run the last command with the alphabet you input)
 
